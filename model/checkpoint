@@ -1,0 +1,3 @@
+model_checkpoint_path: "/workspace/tensorflow/tensorflow_cls5/model3_xxxxx/model3_badcase_relabel_finetune/model_1255000.ckpt"
+all_model_checkpoint_paths: "/workspace/tensorflow/tensorflow_cls5/model3_xxxxx/model3_badcase_relabel_finetune/model_1195000.ckpt"
+all_model_checkpoint_paths: "/workspace/tensorflow/tensorflow_cls5/model3_xxxxx/model3_badcase_relabel_finetune/model_1255000.ckpt"
